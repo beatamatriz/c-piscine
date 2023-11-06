@@ -4,6 +4,6 @@
 !*/*.c
 !*/*.h
 !*/Makefile
-!avaluacions/*/*.c
-!avaluacions/*/*.h
-!avaluacions/*/Makefile
+!avaluacions/*/*/*.c
+!avaluacions/*/*/*.h
+!avaluacions/*/*/Makefile
