@@ -1,6 +1,6 @@
 # c-piscine
 Esta es mi recopilación de proyectos que cociné en la piscina de septiembre 2023 en 42Málaga.
-Hay unas cuantas cosas a tener en cueta:
+Hay unas cuantas cosas a tener en cuenta:
 - Compartir código está guay (cópiate).
 - La respuesta es 42.
 - Debes tú misme valorar si estás extrayendo algún conocimiento (la nota no lo es todo).
