@@ -1,9 +1,3 @@
-*
-!/*
-!.gitignore
-!*.c
-!*.h
-!*Makefile
-!avaluacions/*/*/*.c
-!avaluacions/*/*/*.h
-!avaluacions/*/*/Makefile
+*.out
+avaluacions/.memato/
+.gitignore.bak
